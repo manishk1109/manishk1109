@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding gif">
+<img width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishk1109&label=Profile%20views&color=0e75b6&style=flat" alt="manishk1109" /> </p>
